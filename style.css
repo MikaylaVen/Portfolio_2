@@ -1,0 +1,21 @@
+body {
+    background-color:#f5e4d7;
+}
+h2 {
+    font-family: Arial;
+    font-size:35px;
+    font-style: bold;
+    font-weight:89%;
+    text-align:center;
+    color: #839788;
+}
+
+.container {
+    font-family: Arial;
+    font-size:25px;
+    font-style: bold;
+    font-weight:89%;
+    text-align:center;
+    color: #839788;
+
+}
